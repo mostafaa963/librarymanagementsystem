@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="librarymanagementsystem/librarymanagementsystem.csproj" />
+  <Project Path="StudentManagement/StudentManagement.csproj" Id="8c66a475-258e-4f17-b7b9-32cc5c0ed589" />
+</Solution>
